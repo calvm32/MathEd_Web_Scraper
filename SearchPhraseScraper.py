@@ -85,5 +85,4 @@ async def main():
 
     wb.save('search_results.xlsx')
 
-# Run the main function
 asyncio.run(main())
